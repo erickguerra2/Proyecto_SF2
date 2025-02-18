@@ -6,20 +6,24 @@ Este repositorio contiene materiales y recursos relacionados con el proyecto de 
 
 ### Carpetas y su Contenido
 
-#### 📂 Documentos
-- `Corte 1 - Ing. de Software.pdf` - Documento del primer corte de la asignatura.
-- `Plantilla Gestor de Tiempo.xlsx` - Plantilla en Excel para gestión del tiempo.
+#### 📂 Avance 1
+- `Avance 1 - Ing. de Software.pdf` - Documento con el primer avance del proyecto.
 
-#### 🎤 Entrevistas
-Esta carpeta contiene audios de entrevistas realizadas a diferentes departamentos:
-- `Entrevista - Contabilidad.mp3` - Entrevista con el departamento de Contabilidad.
-- `Entrevista-Dirección.mp3` - Entrevista con la Dirección.
-- `Entrevista-Docente.mp3` - Entrevista con un docente.
+#### 📂 Avance 2
+- **(Carpeta vacía o pendiente de agregar archivos)**
+
+#### 📂 Corte 1
+- `Corte 1 - Ing. de Software.pdf` - Documento con el material del primer corte del curso.
+- **Entrevistas:** Carpeta con grabaciones de entrevistas realizadas:
+  - `Entrevista - Contabilidad.mp3` - Entrevista con el departamento de Contabilidad.
+  - `Entrevista-Dirección.mp3` - Entrevista con la Dirección.
+  - `Entrevista-Docente.mp3` - Entrevista con un docente.
+
+#### 📂 Corte 2
+- **(Carpeta vacía o pendiente de agregar archivos)**
 
 #### 📊 Recursos Adicionales
-- `Guía de Análisis de Requisitos.pdf` - Documento con lineamientos para el análisis de requisitos del proyecto.
-- `Diagramas` - Carpeta con diagramas UML y de flujo relacionados con el sistema.
-- `Planificación` - Contiene hojas de cálculo y documentos de planificación del proyecto.
+- `Plantilla Gestor de Tiempo.xlsx` - Plantilla en Excel para la planificación y gestión del tiempo del proyecto.
 
 ## Enlaces Relacionados
 
