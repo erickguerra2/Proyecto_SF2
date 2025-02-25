@@ -31,6 +31,7 @@ Este repositorio contiene materiales y recursos relacionados con el proyecto de 
 - 🎨 **Presentación en Canva:** [Ver aquí](https://www.canva.com/design/DAGdVG2s6E8/n1hPo4g-QT9Qjjm51-mghg/edit)
 - 📊 **Gestor de Tiempo en Google Sheets:** [Ver aquí](https://docs.google.com/spreadsheets/d/1ANOi-UxKdEVth4_f5Rve-n7hCtrVnJltFUSU2Jr2E1E/edit?usp=sharing)
 - 📂 **Carpeta en Google Drive:** [Ver aquí](https://drive.google.com/drive/u/0/folders/1K3vhXRyipJ4LilflD_hnsrUXh92uNktY)
+- ⏰ **Link de Trello:** [Ver aquí](https://trello.com/b/8Kmj8ANK/automatizacion-de-colegio)
 
 ## Descripción
 
